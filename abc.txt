@@ -1,1 +1,1 @@
-はじめてのGitリポジトリです。
+TEST REMOTE

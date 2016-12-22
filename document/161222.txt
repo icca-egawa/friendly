@@ -1,1 +1,7 @@
 2nd  test
+  ↓ 
+Local UP
+  ↓
+Remote GET
+  ↓
+Remote Edit

@@ -1,8 +1,10 @@
-test
+﻿test
   ↓ 
 Local UP
   ↓
 Remote GET
   ↓
 Remote Edit
+  ↓
+Local Edit
 //
